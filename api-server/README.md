@@ -115,4 +115,3 @@ Example validation error (http code 422):
 }
 ```
 
-The project will change over time, if you have advice on how to do better write to me `minorforyounot[replace]gmail.com`
