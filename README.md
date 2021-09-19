@@ -1,4 +1,4 @@
-# Simple Authentication Project with MERN stack
+# Simple Authentication Project with MERN stack 
 
 Welcome to my simple MERN repo. 💯 💯 💯
 
